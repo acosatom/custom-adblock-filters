@@ -1,2 +1,6 @@
 [Adblock Plus 2.0]
+! Checksum: MeroW9EoZrKB4u3hWKtDZA
+! Version: 201911060842
+! Title: Allow nonintrusive advertising without third-party tracking
+! Expires: 1 days
 dle.rae.es##.bloqueIn.tweets
