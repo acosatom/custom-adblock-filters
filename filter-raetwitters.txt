@@ -1,0 +1,2 @@
+[Adblock Plus 3.7]
+dle.rae.es##.bloqueIn.tweets
