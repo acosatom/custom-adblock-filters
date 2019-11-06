@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: MeroW9EoZrKB4u3hWKtDZA
+! Checksum: 0a4a8e231e0d1c846029b735264633f2
 ! Version: 201911060842
 ! Title: Allow nonintrusive advertising without third-party tracking
 ! Expires: 1 days
