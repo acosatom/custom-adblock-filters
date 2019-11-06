@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Checksum: 5WMzMHn6dtmq4/kb9mtowg
+! Version: 201911060842
+! Title: Filter Twitters
+! Expires: 1 days
+! Homepage: https://arteknia.org/
+!
+dle.rae.es##.bloqueIn.tweets
